@@ -13,7 +13,7 @@ Algorithm:
 8. Display the results.
 
 Program Code:
-#include<studio.h>
+#include<stdio.h>
 int main() {     
 int n, i, j;     
 float avg_waiting_time = 0, avg_turnaround_time = 0;  
